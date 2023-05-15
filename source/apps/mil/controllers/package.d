@@ -1,7 +1,7 @@
-module apps.myname.controllers;
+module apps.mil.controllers;
 
 public { // Packages
-  import apps.myname.controllers.actions;
-  import apps.myname.controllers.components;
-  import apps.myname.controllers.pages;
+  import apps.mil.controllers.actions;
+  import apps.mil.controllers.components;
+  import apps.mil.controllers.pages;
 }

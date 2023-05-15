@@ -1,1 +1,1 @@
-module apps.myname.controllers.pages;
+module apps.mil.controllers.pages;
